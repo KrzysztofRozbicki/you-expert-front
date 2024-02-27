@@ -1,0 +1,1 @@
+export const HEADER_COLUMN_LIMIT = '600px'

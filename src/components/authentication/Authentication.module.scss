@@ -1,0 +1,50 @@
+.google_auth_button {
+  width: 100%;
+  padding: 20px 10px 20px 40px !important;
+  border-radius: 67px !important;
+  display: flex;
+  background-color: #d74f3e !important;
+  color: #fff !important;
+  font-size: 18px !important;
+
+  &:hover {
+    background-color: #7a72df !important;
+  }
+
+  div {
+    margin-right: 62px !important;
+  }
+}
+
+.facebook_auth_button {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start !important;
+  width: 100%;
+  white-space: normal !important;
+  background-color: #4968ad !important;
+  margin-bottom: 15px;
+}
+
+.google_btn_wrapper {
+  height: 72px;
+  position: relative;
+
+  .google_auth_button {
+    height: 100%;
+    text-align: left;
+    padding-left: 74px !important;
+
+    @media only screen and (min-width: 768px) {
+      text-align: center;
+      padding-left: 105px !important;
+    }
+  }
+
+  img {
+    position: absolute;
+    left: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}

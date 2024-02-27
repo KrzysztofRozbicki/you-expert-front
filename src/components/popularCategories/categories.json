@@ -1,0 +1,50 @@
+[
+  {
+    "label": "Animacja objaśniająca",
+    "imagePath": "media/AnyConv.com__305x298_0022_1_Animacja_objasniajaca.webp",
+    "imageAlt": "Animacja",
+    "url": "categories/wideo-i-animacje/animacja-objasniajaca/offers"
+  },
+  {
+    "label": "Ilustracja",
+    "imagePath": "media/5_Ilustracja.webp",
+    "imageAlt": "Ilustracja",
+    "url": "categories/grafika-i-design/ilustracja/offers"
+  },
+  {
+    "label": "Lektor",
+    "imagePath": "media/AnyConv.com__small_0007_Lektor.webp",
+    "imageAlt": "Lektor",
+    "url": "categories/muzyka-i-audio/lektor/offers"
+  },
+  {
+    "label": "Logo",
+    "imagePath": "media/1_Logo.webp",
+    "imageAlt": "logo",
+    "url": "categories/grafika-i-design/logo/offers"
+  },
+  {
+    "label": "Marketing w mediach społecznościowych",
+    "imagePath": "media/1_Marketing_Medi%C3%B3w_Spo%C5%82eczno%C5%9Bciowych.webp",
+    "imageAlt": "Social",
+    "url": "categories/marketing/marketing-w-mediach-spoecznosciowych/offers"
+  },
+  {
+    "label": "Projekt książki",
+    "imagePath": "media/11_Projekt_ksi%C4%85%C5%BCki.webp",
+    "imageAlt": "book",
+    "url": "categories/grafika-i-design/projekt-ksiazki/offers"
+  },
+  {
+    "label": "Seo optymalizacja pod kątem przeglądarek",
+    "imagePath": "media/3_SEO.webp",
+    "imageAlt": "Seo",
+    "url": "categories/marketing/optymalizacja-pod-katem-wyszukiwarek-seo/offers"
+  },
+  {
+    "label": "Wordpress",
+    "imagePath": "media/Kwordpress.webp",
+    "imageAlt": "wordpress",
+    "url": "categories/programowanie/wordpress/offers"
+  }
+]

@@ -1,0 +1,18 @@
+.edge {
+  width: 50%;
+  height: 105px;
+  @media only screen and (min-width: '0') and (max-width: '767px') {
+    height: 45px;
+    top: -44px;
+  }
+
+  @media only screen and (min-width: '767px') and (max-width: '1024px') {
+    height: 65px;
+    top: -64px;
+  }
+
+  @media only screen and (min-width: '1024px') and (max-width: '1920px') {
+    height: 105px;
+    top: -104px;
+  }
+}

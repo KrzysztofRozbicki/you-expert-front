@@ -1,0 +1,77 @@
+{
+  "title": "articles",
+  "links": [
+    {
+      "label": "Demografia Facebooka, Instagrama i LinkedIna",
+      "path": "https://blog.youexpert.pl/2021/09/16/demografia-facebooka-instagrama-i-linkedina/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Podcasty",
+      "path": "https://blog.youexpert.pl/2021/08/10/podkasty-marketing-youexpert/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "TikTok – Najpopularniejsza Aplikacja 2021",
+      "path": "https://blog.youexpert.pl/2021/08/05/tik-tok-najpopularniejsza-aplikacja-2021/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "User Generated Content – Treści Tworzone Przez Użytkowników",
+      "path": "https://blog.youexpert.pl/2021/07/30/user-generated-content-tresc-tworzona-przez-uzytkownikow-2/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Audyt SEO",
+      "path": "https://blog.youexpert.pl/2021/06/21/audyt-seo/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Jak zdobywać klientów w Internecie?",
+      "path": "https://blog.youexpert.pl/2021/06/10/jak-zdobywac-klientow-w-internecie/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Słowa kluczowe – Keywords",
+      "path": "https://blog.youexpert.pl/2021/06/06/keywords-seo/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Pozycjonowanie stron – Techniczne wskaźniki SEO",
+      "path": "https://blog.youexpert.pl/2021/05/05/techniczne-wskazniki-seo/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Reklama w Internecie",
+      "path": "https://blog.youexpert.pl/2021/04/30/reklama-w-internecie/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Marketing Automation",
+      "path": "https://blog.youexpert.pl/2021/03/04/marketing-automation/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Marketing = Zaspokajaj i Zarabiaj",
+      "path": "https://blog.youexpert.pl/2021/02/19/marketing-zaspokajaj-i-zarabiaj/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    },
+    {
+      "label": "Lejki Marketingowe w Sieci",
+      "path": "https://blog.youexpert.pl/2021/02/13/lejki-marketingowe-w-sieci/",
+      "isOuterLink": true,
+      "isKeepWithoutTranslate": true
+    }
+  ]
+}
